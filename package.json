@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "commander": "^11.1.0"
+  },
+  "name": "goit-node-cli",
+  "version": "1.0.0",
+  "description": "study project",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tymnik/goit-node-cli.git"
+  },
+  "author": "tymnik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tymnik/goit-node-cli/issues"
+  },
+  "homepage": "https://github.com/tymnik/goit-node-cli#readme"
+}
